@@ -1,0 +1,95 @@
+    1  HELP
+    2  help cd
+    3  cd Postman/
+    4  cd ..
+    5  cd /
+    6  cd ~
+    7  cd Pictures/
+    8  cd Screenshots
+    9  ls
+   10  cd Pictures/Saved Pictures
+   11  cd Pictures/Saved
+   12  cd Pictures/'Saved pictures'
+   13  cd Pictures/'Saved Pictures'
+   14  cd Pictures/'Camera Roll'
+   15  cd pictures/ ~
+   16  cd Pictures/
+   17  clear
+   18  ..
+   19  cd ..
+   20  cd ..
+   21  cd /d/
+   22  cd /d/Practice
+   23  clear
+   24  systeminfo
+   25  ip config
+   26  ipconfig
+   27  df -h
+   28  whoami
+   29  clear
+   30  git config --global user.name "Anna Norkina"
+   31  git config --global user.email "annanorkina7@gmail.com"
+   32  git config --get user.email
+   33  git clone https://github.com/AnnaAnna7/test_test1.git
+   34  git status
+   35  ls -l
+   36  cd goit/
+   37  cd GoIT/
+   38  cd test_test1
+   39  git status
+   40  git add
+   41  git add new_file.txt
+   42  git status
+   43  git commit -m "Created a new file named new_file"
+   44  git log
+   45  git branch 
+   46  git checkout -b test
+   47  git branch
+   48  touch test.txt
+   49  git add test.txt
+   50  git commit -m "added test file"
+   51  git checkout main
+   52  git merge test
+   53  git log
+   54  git push
+   55  help
+   56  clear
+   57  git config --global user.name "Anna Norkina"
+   58  git config --global user.email annanorkina7@gmail.com
+   59  git clone [200~$ git config --get user
+   60  git clone https://github.com/AnnaAnna7/HW_10.git
+   61  cd GoITTrue/
+   62  cd d/GoITTrue/
+   63  cd /d/GoITTrue/
+   64  git status
+   65  cd /d/
+   66  cd GoITTrue/
+   67  git status
+   68  HW_10
+   69  cd HW_10
+   70  cd git config --global user.name "Anna Norkina"
+   71  git config --global user.name "Anna Norkina"
+   72  git config --global user.email annanorkina7@gmail.com
+   73  git clone https://github.com/AnnaAnna7/HW_10.git
+   74  cd /d/GoITTrue/HW_10
+   75  touch text_ignore.txt
+   76  nano .gitignore
+   77  git status
+   78  git add .
+   79  git commit -m "task1 almost done"
+   80  touch main_test.txt
+   81  git add .
+   82  git commit -m "task2 done"
+   83  git checkout -b develop
+   84  touch develop_test.txt
+   85  git add . 
+   86  git commit -m "task3 p4 almost done"
+   87  nano develop_test.txt
+   88  git status
+   89  git add .
+   90  git add .
+   91  git commit -m "task3 done"
+   92  git checkout main
+   93  git merge develop
+   94  git log
+   95  history > command_list.csv
